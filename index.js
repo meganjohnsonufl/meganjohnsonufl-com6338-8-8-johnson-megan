@@ -1,4 +1,3 @@
-// Your OpenWeather API key (keep it secret!)
 const apiKey = '1b6ab7048b8d7d134f1e942e756497e5';
 
 const form = document.querySelector('form');
